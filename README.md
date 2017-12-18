@@ -1,4 +1,2 @@
 #first-repo
 
-hoge
-
